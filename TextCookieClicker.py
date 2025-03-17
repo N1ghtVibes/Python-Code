@@ -1,4 +1,4 @@
-cookies=9999999
+cookies=1
 click=1
 Dirtclicker=100
 Dirtclickeramt=0
